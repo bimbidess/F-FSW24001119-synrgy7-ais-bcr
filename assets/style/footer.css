@@ -1,0 +1,47 @@
+#footer {
+  height: 324px;
+  justify-content: space-between;
+}
+#footer .container {
+  padding-top: 100px;
+  display: flex;
+  padding-right: 0px;
+  padding-left: 0px;
+}
+#footer .item {
+  margin-right: 86px;
+}
+#footer p {
+  width: 268px;
+  font-family: Helvetica;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 14px;
+  line-height: 20px;
+  color: #000000;
+}
+#footer .nav-link {
+  width: 150px;
+  padding-right: 25px;
+  color: #000;
+  font-family: Helvetica;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 20px;
+}
+#footer .nav-link:hover {
+  color: #0d28a6;
+}
+#footer .img {
+  width: 32px;
+  height: 32px;
+  margin-right: 16px;
+}
+#footer .logo {
+  width: 100px;
+  height: 34px;
+}
+#footer .sosmedLink {
+  text-decoration: none;
+}

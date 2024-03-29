@@ -1,0 +1,329 @@
+@media (max-width: 1279px) {
+  #hero {
+    height: auto;
+  }
+  #hero h1 {
+    width: 100%;
+  }
+  #hero p {
+    width: 100%;
+  }
+  #ourservice {
+    height: auto;
+  }
+  #ourservice .container {
+    padding-top: 50px;
+  }
+  #ourservice .box1 {
+    width: 50%;
+    margin-right: 0px;
+    margin-top: 50px;
+    margin-left: 0px;
+    text-align: center;
+  }
+  #ourservice .img {
+    width: 80%;
+    height: auto;
+  }
+  #ourservice .box2 {
+    width: 50%;
+    margin-top: 140px;
+  }
+  #ourservice .box2 {
+    margin-top: 30px;
+  }
+  #ourservice h1 {
+    width: 100%;
+  }
+  #ourservice p {
+    width: 100%;
+  }
+  #ourservice .item {
+    display: flex;
+    margin-bottom: 6px;
+  }
+  #whyus {
+    height: auto;
+  }
+  #whyus .container {
+    padding-top: 90px;
+    padding-bottom: 30px;
+  }
+  
+  #whyus .itemContainer {
+    margin-top: 24px;
+  }
+  #whyus .item {
+    width: 50%;
+    height: auto;
+    margin-right: 15px;
+    margin-bottom: 16px;
+  }
+  #whyus h2 {
+    width: 100%;
+  }
+  #whyus .pItem {
+    text-align: left;
+    width: 100%;
+  }
+  #testimonial {
+    height: auto;
+  }
+  #testimonial .container-fluid {
+    padding-top: 80px;
+    margin-top: 0px;
+  }
+  #testimonial .item {
+    width: 450px;
+    height: 330px;
+    flex-direction: column;
+    text-align: center;
+  }
+  #testimonial .img {
+    width: 80px;
+    height: 80px;
+    margin: 40px auto;
+    margin-bottom: 0px;
+  }
+  #testimonial .testimoni {
+    margin: 24px 32px;
+  }
+  #testimnal .quote {
+    width: 100%;
+  }
+  #testimonial .name {
+    width: 100%;
+  }
+  #ctabanner {
+    height: 290px;
+  }
+  #ctabanner .container {
+    height: 290px;
+    width: 100%;
+  }
+  #ctabanner h1 {
+    font-size: 24px;
+    margin-bottom: 16px;
+  }
+  #ctabanner p {
+    width: 100%;
+  }
+  #ctabanner .btn {
+    margin-top: 32px;
+  }
+
+  #faq {
+    height: 654px;
+  }
+  #faq .container {
+    flex-direction: column;
+    padding-top: 80px;
+  }
+  #faq .item {
+    margin-right: 0px;
+  }
+ 
+  #faq p {
+    width: 100%;
+  }
+  #faq .accordion {
+    width: 100%;
+    margin-top: 8px;
+  }
+  #footer {
+    height: 324px;
+    justify-content: space-between;
+  }
+  #footer .container {
+    padding-top: 100px;
+    display: flex;
+    flex-wrap: wrap;
+  }
+  #footer .item {
+    margin-right: 50px;
+    margin-bottom: 30px;
+  }
+  #footer p {
+    width: 100%;
+  }
+  #footer .nav-link {
+    padding-right: 0px;
+    padding-left: 0px;
+  }
+}
+@media (max-width: 959px) {
+  #header .container {
+    padding: 24px 0px;
+    margin-left: 15px;
+  }
+  #header .btn{
+    margin-top: 16px;
+  }
+  #hero {
+    height: 657px;
+  }
+ 
+  #hero h1 {
+    width: 100%;
+  }
+  #hero p {
+    width: 100%;
+  }
+  #hero .container {
+    flex-direction: column;
+    padding-right: 12px;
+    padding-left: 12px;
+  }
+ 
+  #ourservice {
+    height: 830px;
+  }
+  #ourservice .container {
+    flex-direction: column;
+    padding-top: 50px;
+    padding-right: 12px;
+    padding-left: 12px;
+  }
+  #ourservice .box1 {
+    width: 100%;
+    margin-right: 0px;
+    margin-top: 50px;
+    margin-left: 0px;
+    text-align: center;
+  }
+  #ourservice .img {
+    width: 90%;
+    height: 50%;
+  }
+  #ourservice .box2 {
+    width: 100%;
+    margin-top: 30px;
+  }
+  #ourservice h1 {
+    width: 100%;
+  }
+  #ouservice p {
+    width: 100%;
+  }
+  #ourservice .item {
+    display: flex;
+    margin-bottom: 6px;
+  }
+  #whyus {
+    height: 1050px;
+  }
+  #whyus .container {
+    padding-top: 100px;
+    padding-right: 12px;
+    padding-left: 12px;
+  }
+  #whyus h1 {
+    text-align: center;
+  }
+  #whyus p {
+    text-align: center;
+  }
+  #whyus .itemContainer {
+    flex-direction: column;
+    margin-top: 24px;
+  }
+  #whyus .item {
+    width: 100%;
+    height: 196px;
+    margin-bottom: 16px;
+  }
+  #whyus h2 {
+    width: 100%;
+  }
+  #whyus .pItem {
+    text-align: left;
+    width: 100%;
+  }
+  #testimonial {
+    height: 650px;
+  }
+  #testimonial .container-fluid {
+    padding-top: 100px;
+    margin-top: 0px;
+  }
+  #testimonial .item {
+    width: 328px;
+    height: 372px;
+    flex-direction: column;
+    text-align: center;
+  }
+  #testimonial .img {
+    width: 80px;
+    height: 80px;
+    margin: 40px auto;
+    margin-bottom: 0px;
+  }
+  #testimonial .testimoni {
+    margin: 24px 32px;
+  }
+  #testimonial .text {
+    width: 100%;
+  }
+  #testimonial .name {
+    width: 100%;
+  }
+  #ctabanner {
+    height: 400px;
+    padding: 0px 16px;
+  }
+  #ctabanner .container {
+    height: 400px;
+    width: 100%;
+    padding: 64px 58px 0px 58px;
+  }
+  #ctabanner h1 {
+    font-size: 24px;
+    margin-bottom: 16px;
+  }
+  #ctabanner p {
+    width: 100%;
+  }
+  #ctabanner .btn {
+    margin-top: 32px;
+  }
+  #faq .container {
+   padding:100px 0;
+  }
+  .faq .col-md-5 h3 {
+    text-align: center;
+  }
+  .faq .col-md-5 p {
+    text-align: center;
+  }
+  .owl-carousel .item .col-lg-3 {
+    align-items: center;
+    justify-content: center;
+  }
+  .owl-carousel .item .col-lg-9 .text-review .star {
+    align-items: center;
+    padding-left: 38.5%;
+  }
+  #footer {
+    height: 324px;
+    justify-content: space-between;
+  }
+  #footer .container {
+    padding-top: 100px;
+    display: flex;
+    flex-direction: column;
+    padding-right: 12px;
+    padding-left: 12px;
+  }
+  #footer .item {
+    margin-right: 0px;
+    margin-bottom: 30px;
+  }
+  #footer p {
+    width: 100%;
+  }
+  #footer .nav-link {
+    width: 100%;
+    padding-right: 0px;
+    padding-left: 0px;
+  }
+}
